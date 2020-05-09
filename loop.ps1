@@ -2,7 +2,7 @@
 
 # Settings
 $Iterations = 9
-$IntervalTime = 150
+$IntervalTime = 620
 $SimetTime = 120
 $RemainTime = $IntervalTime - $SimetTime
 $Browser = "msedge"

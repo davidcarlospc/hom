@@ -24,8 +24,8 @@ This script will capture screens from meetings held with researchers from the In
 
 # Variables defined in the loop.ps1 file
 
-$DataPath = The directory path | Default value: "c:\exp"
-$Iterations = Number of repetitions | Default value: 9
-$IntervalTime = Total time between measurements | Default value: 620 (seconds)
-$SimetTime = Estimated duration of simet measurement in the browser | Default value: 120 (seconds)
-$Browser = Browser to be used to open the simet page and the measurement | Default value: "msedge"
+- $DataPath = The directory path | Default value: "c:\exp"
+- $Iterations = Number of repetitions | Default value: 9
+- $IntervalTime = Total time between measurements | Default value: 620 (seconds)
+- $SimetTime = Estimated duration of simet measurement in the browser | Default value: 120 (seconds)
+- $Browser = Browser to be used to open the simet page and the measurement | Default value: "msedge"

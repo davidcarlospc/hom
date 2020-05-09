@@ -12,8 +12,9 @@ This script will capture screens from meetings held with researchers from the In
 
 - Microsoft Windows OS with PowerShell support
 - "hom-master" folder from this repository must have been copied to your disk
-- open the folder and check the files (loop.ps1, nircmd.exe)
-- run the script
+- Open the folder and check the files (loop.ps1, nircmd.exe)
+- To display network traffic data by process, we recommend and use the NetBalancer tool (https://netbalancer.com/download)
+- Run the script
 
 # Exectution sequence
 

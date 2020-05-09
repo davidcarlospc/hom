@@ -23,7 +23,7 @@ This script will capture screens from meetings held with researchers from the In
 - Performs a pre-established number of repetitions, according to a known interval in seconds
 
 
-# Variables defined in the loop.ps1 file
+# Defined variables (in loop.ps1)
 
 - $DataPath = The directory path | Default value: The current folder path
 - $Iterations = Number of repetitions | Default value: 9
